@@ -7,8 +7,8 @@ This is a simple C++ quine with a lot of magic numbers that I hope to clean up a
 Compile with g++:
 
 ```
-> g++ a_cpp_quine.cpp -o a.out
-> ./a.out
+>> g++ a_cpp_quine.cpp -o a.out
+>> ./a.out
 
 Warning ~ This is a self-replicating program!
 
